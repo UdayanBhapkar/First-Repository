@@ -1,0 +1,137 @@
+    1  ls
+    2  cd Printhood
+    3  ls
+    4  cd ..
+    5  dir
+    6  pwd
+    7  mkdir git_project
+    8  cd git_project
+    9  git init
+   10  ls
+   11  ls -alt
+   12  touch TheKihhhy.txt
+   13  ls
+   14  git status
+   15  git commit -m "The Kihhhy's first (third) commit"
+   16  git --version
+   17  git config --global user.email "udayanbhapkar@verizon.net'
+
+   18  git config --global user.email "udayanbhapkar@verizon.net'
+
+   19  git config --global user.email "udayanbhapkar@verizon.net'"
+   20  git config --global user.email "udayanbhapkar@verizon.net"
+   21  git config --global user.name "Udayan Bhapkar"
+   22  git commit -m "The Kihhhy's first (third) commit"
+   23  git commit -m "The Kihhhy's first (third) commit"
+   24  git branch
+   25  git branch -a
+   26  git branch
+   27  git checkout -b branch1
+   28  git branch -a
+   29  git branch
+   30  git branch -a
+   31  ls
+   32  cd ..
+   33  ls
+   34  dir
+   35  echo "# First-repository" >> README.MD
+   36  echo "# First-Repository" >> README.MD
+   37  git add README.md
+   38  ls
+   39  ls
+   40  cd git_project
+   41  ls
+   42  git branch
+   43  git add
+   44  git add .
+   45  ls
+   46  status
+   47  git status
+   48  more TheKihhhy.txt
+   49  type TheKihhhy.txt
+   50  touch TheKihhhy.txt
+   51  gedit TheKihhhy.txt
+   52  git remote add origin https://github.com/UdayanBhapkar/First-Repository.git
+   53  git push -u origin master
+   54  git status
+   55  git config --global user.name "UdayanBhapkar"
+   56  git remote add origin https://github.com/UdayanBhapkar/First-Repository.git
+   57  git push -u origin master
+   58  git remote add origin https://github.com/UdayanBhapkar/branch1.git
+   59  git remote add origin https://github.com/UdayanBhapkar/First-Repository.git
+   60  git push -u origin master
+   61  ls dir
+   62  ls
+   63  cd ..
+   64  ls
+   65  mkdir 'First Repository"
+   66  mkdir "First Repository"
+   67  cd "First Repository"
+   68  git init
+   69  touch FirstFile.txt
+   70  ls
+   71  git status
+   72  git add .
+   73  git status
+   74  git commit -m "The Kihhhy's first (third) commit"
+   75  ls
+   76  git commit -m "First commit"
+   77  git branch
+   78  git checkout -b branch1
+   79  git branch
+   80  ls
+   81  git remote add origin https://github.com/UdayanBhapkar/First-Repository.git
+   82  git push -u origin master
+   83  git push -u origin branch1
+   84  ls
+   85  git pull origin master
+   86  git branch
+   87  git branch -a
+   88  ls
+   89  pwd
+   90  git status
+   91  git add .
+   92  git status
+   93  git branch -a
+   94  git push -u origin branch1
+   95  git checkout -b branch1
+   96  git checkout -m branch1
+   97  git push -u origin branch1
+   98  git diff
+   99  type FirstFile.txt
+  100  more FirstFile.txt
+  101  ls
+  102  touch ThirdFile.txt
+  103  git add .
+  104  git status
+  105  git commit -m "mod FirstFile.txt, new ThirdFile.txt"
+  106  git status
+  107  git push -u origin branch1
+  108  git log
+  109  git branch -a
+  110  git help branch
+  111  git help checkout
+  112  git help commit
+  113  git help push
+  114  history
+  115  git diff
+  116  git help add
+  117  ls
+  118  pwd
+  119  msnbc
+  120  git log
+  121  git status
+  122  git status --h
+  123  git status --help
+  124  fetch
+  125  git help fetch
+  126  git
+  127  grep
+  128  add
+  129  history
+  130  clear
+  131  c
+  132  ls
+  133  help history
+  134  history
+  135  history > h.txt
